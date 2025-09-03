@@ -26,7 +26,7 @@
             <label>Date of birth:</label>
             <input type="text" id="day" name="day" placeholder="Day">
                
-            <input type="text" id="month" name="month" placeholder="Day">
+            <input type="text" id="month" name="month" placeholder="Month">
                 
             <input type="number" id="year" name="year" placeholder="Year" >
             <label>(DD-MM-YYYY)</label>
